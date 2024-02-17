@@ -1,0 +1,22 @@
+/* body :nth-child(odd) {
+  background-color: rgba(242, 172, 168, 1);
+} */
+.pink-bg {
+  background-color: rgba(242, 172, 168, 1);
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#num-2 {
+  color: rgba(0, 0, 255, 1);
+  font-size: 32px;
+}
+
+.num-3 {
+  font-size: 24px;
+}
+
+#num-4 {
+ background-color: rgba(157, 252, 135, 1);
+ font-size: 24px;
+ font-weight: bold;
+}
